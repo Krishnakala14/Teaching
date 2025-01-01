@@ -1,0 +1,25 @@
+# Exploratory Data Analysis on Financial Data
+
+## 🌟 Project Overview
+
+This project demonstrates a comprehensive **Exploratory Data Analysis (EDA)** on a financial dataset. The objective is to uncover patterns, identify trends, and highlight key insights through data visualization and statistical methods.
+
+Key components of this project:
+- Data cleaning and preprocessing.
+- Detailed descriptive statistics.
+- Trend analysis and visualizations.
+- Outlier detection and handling.
+
+---
+
+## 📂 Repository Structure
+
+```plaintext
+EDA-Financial-Data/
+├── README.md                  # Project documentation
+├── EDA_Financial_Data.ipynb   # Jupyter Notebook with the EDA
+├── financial_data.csv         # Dataset used in the analysis (sample)
+├── requirements.txt           # Python dependencies
+└── visuals/                   # Folder containing generated visualizations
+    ├── revenue_distribution.png
+    ├── profit_by_region.png
