@@ -10,7 +10,7 @@ Hi there! I'm Krishnakala, an Assistant Professor with **2 years of teaching exp
 ## 🔑 Key Skills  
 - **Programming**: Python, C, Data Structures  
 - **Data Science**: EDA, Machine Learning, Data Visualization  
-- **Tools**: Power BI, Excel,Visual Studio, Jupyter Notebook  
+- **Tools**: Power BI, Excel,Visual Studio, Jupyter Notebook, Google Colab  
 - **Teaching**: Lecture Delivery, Curriculum Development, Student Mentorship, Prject Guidance  
 
 ---
