@@ -14,16 +14,17 @@ Hi there! I'm Krishnakala, an Assistant Professor with **2 years of teaching exp
 ---
 
 ## 📂 Highlighted Repositories  
-1. [Python Basics for Students](#)  
+1. Python Basics for Students  
    A complete guide for beginners to learn Python, including exercises and solutions.  
    
-2. [Data Science Projects](#)  
-   Hands-on projects with real-world datasets and detailed explanations.  
+2. Data Science Projects  
+   Hands-on projects with real-world datasets and detailed explanations.
+   EDA-[https://github.com/Krishnakala14/Teaching/commit/b5fae6887a6bc5687cf8ac893ab51bf6dd701350](#)  
 
-3. [AI Model Training](#)  
+4. AI Model Training  
    Sample neural network models with clear theoretical insights and practical code.  
 
-4. [Interactive Dashboards](#)  
+5. Interactive Dashboards  
    Visual dashboards to help students understand data science concepts interactively.  
 
 ---
