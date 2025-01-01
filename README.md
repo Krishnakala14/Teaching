@@ -19,7 +19,7 @@ Hi there! I'm Krishnakala, an Assistant Professor with **2 years of teaching exp
    
 2. Data Science Projects  
    Hands-on projects with real-world datasets and detailed explanations.
-   EDA-[https://github.com/Krishnakala14/Teaching/commit/b5fae6887a6bc5687cf8ac893ab51bf6dd701350](#)  
+   EDA-[(https://github.com/Krishnakala14/Teaching/blob/main/EDA)](#)  
 
 4. AI Model Training  
    Sample neural network models with clear theoretical insights and practical code.  
